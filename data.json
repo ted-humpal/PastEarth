@@ -1,1 +1,1 @@
-[{"id":1,"color":"7FDBFF","segments":[{"times":[],"coordinatesOverTime":[]}]}]
+[{"id":1,"color":"7FDBFF","segments":[{"times":["0001-01-01T05:00:00.000Z","0002-01-01T05:00:00.000Z"],"coordinatesOverTime":[[{"lat":0,"lng":0}],[{"lat":0,"lng":30.5859375}]]}]}]
