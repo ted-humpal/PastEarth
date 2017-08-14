@@ -1,1 +1,1 @@
-[{"id":1,"color":"7FDBFF","center":{"name":"center","coordinates":{}},"segments":[{"times":[],"coordinatesOverTime":[],"type":"point"}]}]
+[{"id":1,"color":"7FDBFF","center":{"name":"center","coordinates":{}},"segments":[{"times":[],"coordinatesOverTime":[],"type":"point"},{"times":[],"coordinatesOverTime":[],"type":"bezier"},{"times":[],"coordinatesOverTime":[],"type":"bezier"}]}]
